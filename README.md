@@ -140,7 +140,7 @@ cd customer-churn-prediction
 
 # 2. Create and activate virtual environment
 python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
+venv\Scripts\activate   # Linux & macOS: source venv/bin/activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
@@ -199,7 +199,8 @@ Ensure `requirements.txt` is present and the `models/` folder (with `.joblib` an
 
 ## 👤 Author
 
-Built as **Task 9: End-to-End Data Science Project** for internship submission.
+Hassan Raza
+AI & Data Science Intern
 
 ---
 
