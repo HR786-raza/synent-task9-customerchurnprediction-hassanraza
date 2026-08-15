@@ -199,7 +199,7 @@ Ensure `requirements.txt` is present and the `models/` folder (with `.joblib` an
 
 ## 👤 Author
 
-Hassan Raza
+Hassan Raza - 
 AI & Data Science Intern
 
 ---
